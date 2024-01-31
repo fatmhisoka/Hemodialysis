@@ -33,8 +33,8 @@ This Arduino sketch implements a system for controlling pumps and monitoring var
 4. The IR sensor detects air in the fluid line and triggers an LED indicator.
 
 ## Circuit Diagram
-!(pump.png)
-!(sensor.png)
+![pump Diagram](pump.png)
+![sensor Diagram](sensor.png)
 
 ## Dependencies
 - Arduino IDE
